@@ -218,10 +218,11 @@ SPEC REPOS:
     - PBWebViewController
     - PromisesObjC
     - Protobuf
-    - Reachability
     - SAMKeychain
     - SimulatorStatusMagic
     - SVProgressHUD
+  trunk:
+    - Reachability
     - Vialer-pjsip-iOS
     - VialerSIPLib
 
